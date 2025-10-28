@@ -8,10 +8,9 @@ git clone https://github.com/dmitrijslasko/42_philosophers_tester.git
 **2. Give execution permissions:**
 ```bash
 chmod +x run_tests.sh
-./run_tests.sh
 ```
 
-**3. Launch in the desired mode:**
+**3. Launch in the desired mode. Expected binary name: philo**
 ```bash
 ./run_tests.sh 				# normal mode
 ./run_tests.sh valgrind		# Valgrind check for memory leaks
