@@ -43,17 +43,17 @@ chmod +x run_tests.sh
 "150 800 200 200 10 0"
 "200 800 200 200 10 0"
 
-# big philosopher count - smaller time_to_die 
+# large philosopher count - smaller time_to_die 
 "100 600 200 200 10 0"
 "150 600 200 200 10 0"
 "200 600 200 200 10 0"
 
-# big philosopher count - even smaller time_to_die 
+# large philosopher count - even smaller time_to_die 
 "100 420 200 200 10 0"
 "150 420 200 200 10 0"
 "200 420 200 200 10 0"
 
-# philosopher is expected to die in thsese scenarios 
+# philosopher is expected to die in these scenarios 
 "10 399 200 200 10 1"
 "2 399 200 200 10 1"
 "5 599 200 200 10 1"
