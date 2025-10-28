@@ -1,5 +1,7 @@
 A simple tester for your 42 Philosophers project.
 
+![Philosophers Project](https://github.com/dmitrijslasko/42-assets/blob/ae13cf258a837711ebdd9601ef5d3357da805784/philosophers-tester.jpg)
+
 ## How to launch 🚀
 **1. Place the script in the folder with your philo binary.**
 ```bash
